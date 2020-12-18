@@ -1,0 +1,8 @@
+{:client-id "835866718456-7f51dkg9avtn3jghjefioo45vmibrqmv.apps.googleusercontent.com"
+ :client-secret "nWRN4-W_KjQ8dDFCCEFCtWmn"
+ :redirect-uris ["http://localhost"]
+ :auth-map {:access-token "YOUR ACCESS TOKEN"
+            :expires-in 1234
+            :refresh-token "YOUR REFRESH TOKEN"
+            :token-type "Bearer"}}
+
